@@ -20,7 +20,7 @@ Este é um projeto simples para sortear amigos de um grupo, ideal para eventos c
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/ErickTCosta/ONE---Challenge-Amigo-secreto-
    ```
 
 2. **Acesse o diretório do projeto**:
