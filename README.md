@@ -46,3 +46,7 @@ Este é um projeto simples para sortear amigos de um grupo, ideal para eventos c
 2. Repita o processo até adicionar todos os nomes.
 3. Clique em "Sortear amigo" para selecionar um amigo aleatoriamente.
 4. O resultado aparecerá na tela.
+
+## Deploy do Site Amigo Secreto
+https://ericktcosta.github.io/ONE---Challenge-Amigo-secreto-/
+
