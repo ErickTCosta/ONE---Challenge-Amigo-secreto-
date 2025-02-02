@@ -7,9 +7,18 @@ function adicionarAmigo() {
     exibirErro("Digite um nome válido");
     return;
   }
+  if (verificarAmigo(nome_amigo)) {
+    exibirErro("Amigo já adicionado");
+    return;
+  }
   lista_amigos.push(nome_amigo);
   exibirListaAmigos();
   limparInput();
+}
+
+// não permitir adicionar o mesmo amigo
+function verificarAmigo(nome) {
+  return lista_amigos.includes(nome);
 }
 
 function limparInput() {
